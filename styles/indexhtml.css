@@ -1,0 +1,1412 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 155.8rem;
+}.indexhtml-AuM {
+  box-sizing: border-box;
+  padding: 2.9rem 0rem 10.112rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #a5a4f1 -0%, rgba(187, 95, 230, 0.8299999833) 65%, rgba(241, 164, 233, 0.8999999762) 95%);
+}
+.indexhtml-AuM .header-LxF {
+  margin: 0rem 8.3rem 4.518rem 5.4rem;
+  width: calc(100% - 13.7rem);
+  height: 7.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .header-LxF .logo-R6X {
+  width: 8.4rem;
+  height: 7.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .header-LxF .auto-group-5y3h-jsu {
+  box-sizing: border-box;
+  padding: 1rem 0rem 1rem 44.4rem;
+  height: 100%;
+  display: flex;
+  column-gap: 6.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .header-LxF .auto-group-5y3h-jsu .home-3dh {
+  box-sizing: border-box;
+  padding: 0 0.6rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .header-LxF .auto-group-5y3h-jsu .home-KbD {
+  box-sizing: border-box;
+  padding: 0 0.5rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .header-LxF .auto-group-5y3h-jsu .home-pXy {
+  box-sizing: border-box;
+  padding: 0 0.35rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .header-LxF .auto-group-5y3h-jsu .home-itF {
+  box-sizing: border-box;
+  padding: 0 0.25rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .header-LxF .auto-group-5y3h-jsu .home-e1D {
+  box-sizing: border-box;
+  padding: 0 0.35rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD {
+  margin-bottom: 0rem;
+  width: 155.9rem;
+  height: 317.4818rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV {
+  box-sizing: border-box;
+  padding: 0rem 16rem 0rem 9rem;
+  width: 155.8rem;
+  height: 102.5233rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/section-bg.png');
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .auto-group-btky-xRD {
+  margin: 23.9rem 10.8rem 19.123rem 0rem;
+  width: 63.1rem;
+  height: calc(100% - 43.0233rem);
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .auto-group-btky-xRD .divleftcontainer-rWb {
+  margin-bottom: 9.65rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .auto-group-btky-xRD .divleftcontainer-rWb .hi-i-am-sophia-angela-i-olbes-ahV {
+  margin: 0rem 0rem 8.25rem 0.7rem;
+  display: flex;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Sansita One, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .auto-group-btky-xRD .divleftcontainer-rWb .hi-i-am-sophia-angela-i-olbes-ahV .hi-i-am-sophia-angela-i-olbes-ahV-sub-0 {
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .auto-group-btky-xRD .divleftcontainer-rWb .hi-i-am-sophia-angela-i-olbes-ahV .hi-i-am-sophia-angela-i-olbes-ahV-sub-1 {
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a4def1;
+  font-family: Sansita One, 'Source Sans Pro';
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .auto-group-btky-xRD .divleftcontainer-rWb .a-student-with-hearing-impairment-xX1 {
+  margin: 0rem 0rem 6.5rem 0.7rem;
+  display: flex;
+  font-size: 3.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Sansita One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .auto-group-btky-xRD .divleftcontainer-rWb .i-am-currently-in-my-third-year-of-taking-bachelor-of-science-in-information-technology-at-dalubhasaan-ng-lungsod-ng-lucena-TCs {
+  max-width: 63.1rem;
+  display: flex;
+  font-size: 3.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .auto-group-btky-xRD .divbuttons-XiX {
+  margin: 0rem 17.972rem 0rem 1.7rem;
+  width: calc(100% - 19.672rem);
+  height: 5.9rem;
+  display: flex;
+  align-items: center;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .auto-group-btky-xRD .divbuttons-XiX .link-button-FPd {
+  margin-right: 3.428rem;
+  width: 20rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.285;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Ultra, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #ff0089;
+  box-sizing: border-box;
+  background-color: rgba(0, 132, 255, 0.4600000083);
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .auto-group-btky-xRD .divbuttons-XiX .button-G3q {
+  box-sizing: border-box;
+  padding: 1rem 5.383rem 1rem 5.417rem;
+  width: 20rem;
+  height: 100%;
+  border: solid 0.3rem #ff0089;
+  background-color: rgba(0, 132, 255, 0.4600000083);
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .auto-group-btky-xRD .divbuttons-XiX .button-G3q .contact-me-zVd {
+  max-width: 9.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.285;
+  color: #000000;
+  font-family: Ultra, 'Source Sans Pro';
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-gyV .imgpng-eKH {
+  margin-bottom: 0.1233rem;
+  width: 56.9rem;
+  height: 102.4rem;
+  border: solid 1rem rgba(0, 132, 255, 0.4600000083);
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/imgpng-bg.png');
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX {
+  box-sizing: border-box;
+  padding: 0rem 4.3rem 0rem 12.8rem;
+  width: 155.8rem;
+  height: 102.5233rem;
+  position: absolute;
+  left: 0;
+  top: 102.5233rem;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  background: linear-gradient(180deg, #a4b0f1 18.5%, rgba(179, 164, 241, 0.7900000215) 71.5%);
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .auto-group-zbip-Agw {
+  margin: 10rem 12.4rem 0rem 0rem;
+  width: 46.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .auto-group-zbip-Agw .about-me-gfH {
+  margin: 0rem 9.4rem 9.2rem 5.5rem;
+  width: calc(100% - 14.9rem);
+  height: 7.6rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .auto-group-zbip-Agw .rectangle-2-LE3 {
+  width: 46.3rem;
+  height: 45.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R {
+  box-sizing: border-box;
+  padding-bottom: 4.8rem;
+  width: 80rem;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.5rem 0.7rem 1.5rem rgba(185, 185, 185, 0.6159999967);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .divtop-section-y27 {
+  box-sizing: border-box;
+  padding: 3.1rem 20.79rem 3.7rem 20.81rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #b0e0e6;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .divtop-section-y27 .sophia-angela-i-olbes-ffd {
+  margin: 0rem 0rem 1.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6406rem;
+  font-weight: 100;
+  line-height: 1.2125;
+  color: #00008b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .divtop-section-y27 .bachelor-of-science-in-information-technology-9qh {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7344rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #00008b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj {
+  margin-right: 0.7rem;
+  height: 83rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D {
+  margin: 3.85rem 2.4rem 4.9rem 0rem;
+  height: calc(100% - 8.75rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .personl-info-6eT {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .age-21-csh {
+  margin-bottom: 1.65rem;
+  display: flex;
+  font-size: 1.4625rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .bithday-june-12002-96w {
+  margin-bottom: 1.7rem;
+  display: flex;
+  font-size: 1.375rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .birthplace-lucena-city-4jh {
+  margin-bottom: 1.75rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .phone-09096623567-8d5 {
+  margin-bottom: 1.8rem;
+  display: flex;
+  font-size: 1.3125rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .address-purok-san-roque-brgy-4-lc-dZq {
+  margin-bottom: 1.7rem;
+  max-width: 21.6rem;
+  display: flex;
+  font-size: 1.3875rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .email-olbesophiagmailcom-j75 {
+  margin-bottom: 4.2rem;
+  display: flex;
+  font-size: 1.4125rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .skills-SnB {
+  margin-bottom: 2.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .list-item-responsibility-adV {
+  margin: 0rem 0rem 1.05rem 2.5rem;
+  display: flex;
+  font-size: 1.4125rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .list-item-good-communication-UD5 {
+  margin: 0rem 0rem 1.1rem 2.5rem;
+  display: flex;
+  font-size: 1.3875rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .list-item-studying-BdH {
+  margin: 0rem 0rem 1.05rem 2.5rem;
+  display: flex;
+  font-size: 1.375rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .list-item-artist-HwD {
+  margin: 0rem 0rem 1.05rem 2.5rem;
+  display: flex;
+  font-size: 1.425rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .list-item-cleaning-NbH {
+  margin: 0rem 0rem 4.25rem 2.5rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .hobbies-tJj {
+  margin-bottom: 2.05rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .list-item-watching-series-of-manga-Qns {
+  margin: 0rem 0rem 5.45rem 4rem;
+  max-width: 16.5rem;
+  display: flex;
+  font-size: 1.35rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .language-hX5 {
+  margin-bottom: 1.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .english-c8F {
+  margin-bottom: 1.55rem;
+  display: flex;
+  font-size: 1.45rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .auto-group-sexr-17D .fiipino-98B {
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divline-sps {
+  margin-top: 3rem;
+  width: 1.7rem;
+  height: 80rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 {
+  margin-bottom: 0.5rem;
+  width: 49.6rem;
+  height: 82.5rem;
+  position: relative;
+  background-color: #f0f8ff;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .summary-hZ1 {
+  width: 8.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 3.85rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #00008b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .pp-4-yFd {
+  box-sizing: border-box;
+  padding: 0.05rem 0.3rem;
+  width: 45.6rem;
+  height: 9.3rem;
+  position: absolute;
+  left: 2rem;
+  top: 7.5rem;
+  border: solid 0.3rem #000000;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .pp-4-yFd .the-arts-have-influenced-my-life-in-amazing-ways-art-defines-all-that-we-are-and-all-that-we-could-become-i-would-say-that-our-skills-as-artists-have-improved-since-the-first-paintings-as-ive-grown-older-art-has-become-so-much-more-than-that-student-life-is-meant-to-help-us-learn-discipline-and-study-despite-that-life-is-quite-enjoyable-the-struggle-is-low-in-student-life-feF {
+  max-width: 43.9rem;
+  display: flex;
+  font-size: 1.2141rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .separator-mqh {
+  width: 45.6rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 17.8rem;
+  overflow: hidden;
+  border: solid 0.1rem #9a9a9a;
+  box-sizing: border-box;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .experience-tQX {
+  width: 9.9rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 22.45rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #00008b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .studying-in-my-life-zCf {
+  width: 12.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 26.35rem;
+  display: flex;
+  font-size: 1.425rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #5c5454;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .pp-4-tYw {
+  box-sizing: border-box;
+  padding: 0.45rem 0.3rem 0.55rem 0.3rem;
+  width: 45.6rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 2rem;
+  top: 29.8rem;
+  border: solid 0.3rem #000000;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .pp-4-tYw .in-life-we-find-meaning-through-a-sense-of-purpose-which-makes-life-worthwhile-the-period-of-student-life-brings-joy-and-happiness-to-our-lives-and-builds-a-strong-foundation-it-also-determines-our-successful-life-D5R {
+  max-width: 44.5rem;
+  display: flex;
+  font-size: 1.1922rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .drawing-painting-FH1 {
+  width: 12.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 36.75rem;
+  display: flex;
+  font-size: 1.4125rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #5c5454;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .pp-4-xBR {
+  box-sizing: border-box;
+  padding: 0 0.3rem;
+  width: 45.6rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 39.95rem;
+  border: solid 0.3rem #000000;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .pp-4-xBR .art-helps-us-to-express-what-we-feel-it-can-enlight-us-and-lift-our-spirits-to-motivate-ourselves-in-daily-life-it-affects-us-because-it-has-a-big-impact-that-affects-our-mood-and-emotions-gNK {
+  max-width: 41.7rem;
+  display: flex;
+  font-size: 1.1922rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .separator-X83 {
+  width: 45.6rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 47rem;
+  overflow: hidden;
+  border: solid 0.1rem #9a9a9a;
+  box-sizing: border-box;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .education-EYF {
+  width: 9.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 51.65rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #00008b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .item-2008-2014-whZ {
+  width: 9.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 55.7rem;
+  display: flex;
+  font-size: 1.6094rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .pp-4-SuD {
+  box-sizing: border-box;
+  padding: 0.3rem 0.3rem 0.4rem 0.3rem;
+  width: 45.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 59.9rem;
+  display: flex;
+  font-size: 1.2031rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #000000;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .item-2014-2018-7kT {
+  width: 9.7rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 2rem;
+  top: 64.15rem;
+  display: flex;
+  font-size: 1.6563rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .pp-4-DoV {
+  box-sizing: border-box;
+  padding: 0.3rem 0.3rem 0.4rem 0.3rem;
+  width: 45.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 68.4rem;
+  display: flex;
+  font-size: 1.225rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #000000;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .item-2018-2020-6cP {
+  width: 9.7rem;
+  height: 2rem;
+  position: absolute;
+  left: 2rem;
+  top: 72.7rem;
+  display: flex;
+  font-size: 1.625rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-tUX .divmain-f1R .auto-group-lnab-Ftj .divcol-div-8-bF5 .pp-4-c4w {
+  box-sizing: border-box;
+  padding: 0.3rem 0.3rem 0.4rem 0.3rem;
+  width: 45.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 76.9rem;
+  display: flex;
+  font-size: 1.225rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.3rem #000000;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX {
+  box-sizing: border-box;
+  padding: 2.5rem 9rem 9.635rem 9.9rem;
+  width: 155.8rem;
+  height: 112.4352rem;
+  position: absolute;
+  left: 0;
+  top: 205.0466rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, rgba(70, 93, 154, 0.7799999714) 11%, rgba(115, 85, 154, 0.7799999714) 49%, rgba(142, 70, 154, 0.7799999714) 82%);
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .header-project-rdV {
+  margin: 0rem 0.9rem 3.9rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.55;
+  color: #ffffff;
+  font-family: Pridi, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-4ofd-8qu {
+  margin-bottom: 6.1rem;
+  width: 100%;
+  height: 25.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-4ofd-8qu .divpicture-container-TdH {
+  margin-right: 43.3rem;
+  box-sizing: border-box;
+  padding: 5.2rem 1.6rem 7.2rem 1.6rem;
+  width: 46.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.5rem rgba(28, 48, 107, 0.8299999833);
+  background-color: rgba(217, 217, 217, 0.3600000143);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-4ofd-8qu .divpicture-container-TdH .header-javascript-calculator-A1u {
+  margin: 0rem 0rem 3.2rem 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-4ofd-8qu .divpicture-container-TdH .auto-group-ihrp-TFu {
+  width: 100%;
+  height: 7.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-4ofd-8qu .divpicture-container-TdH .auto-group-ihrp-TFu .link-button-12X {
+  width: 43.6rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.5rem #658fbc;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.4300000072);
+  border-radius: 1rem;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-4ofd-8qu .divpicture-container-TdH .auto-group-ihrp-TFu .calculator-WEB {
+  width: 13.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 1.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-4ofd-8qu .divpicture-container-KxK {
+  box-sizing: border-box;
+  padding: 4.1rem 1.6rem 9.6rem 1.6rem;
+  width: 46.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.5rem rgba(28, 48, 107, 0.8299999833);
+  background-color: rgba(217, 217, 217, 0.3600000143);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-4ofd-8qu .divpicture-container-KxK .header-javascript-calculator-S1M {
+  margin-bottom: 2.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-4ofd-8qu .divpicture-container-KxK .auto-group-8avb-LcX {
+  width: 100%;
+  height: 6.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #658fbc;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.4300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-g7fd-kRM {
+  margin: 0rem 12.2rem 6.1rem 12.7rem;
+  width: calc(100% - 24.9rem);
+  height: 25.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-g7fd-kRM .divpicture-container-U6T {
+  margin-right: 18.4rem;
+  box-sizing: border-box;
+  padding: 5.3rem 1.6rem 7.7rem 1.6rem;
+  width: 46.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.5rem rgba(28, 48, 107, 0.8299999833);
+  background-color: rgba(217, 217, 217, 0.3600000143);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-g7fd-kRM .divpicture-container-U6T .header-javascript-calculator-BFm {
+  margin-bottom: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-g7fd-kRM .divpicture-container-U6T .auto-group-eqlk-tvs {
+  width: 100%;
+  height: 6.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #658fbc;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.4300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-g7fd-kRM .divpicture-container-8aK {
+  box-sizing: border-box;
+  padding: 3.9rem 1.6rem 9.6rem 1.6rem;
+  width: 46.8rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.5rem rgba(28, 48, 107, 0.8299999833);
+  background-color: rgba(217, 217, 217, 0.3600000143);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-g7fd-kRM .divpicture-container-8aK .header-javascript-calculator-eHm {
+  margin-bottom: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-g7fd-kRM .divpicture-container-8aK .auto-group-gjao-Zfd {
+  width: 100%;
+  height: 6.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #658fbc;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.4300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-htcb-nYP {
+  margin-left: 1.6rem;
+  width: calc(100% - 1.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-htcb-nYP .divpicture-container-jCj {
+  margin: 0rem 41.7rem 1rem 0rem;
+  box-sizing: border-box;
+  padding: 4.2rem 1.3rem 9.6rem 1.9rem;
+  width: 46.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.5rem rgba(28, 48, 107, 0.8299999833);
+  background-color: rgba(217, 217, 217, 0.3600000143);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-htcb-nYP .divpicture-container-jCj .header-javascript-calculator-pzs {
+  margin: 0rem 0.6rem 2.7rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-htcb-nYP .divpicture-container-jCj .auto-group-wmhy-Kgj {
+  width: 100%;
+  height: 6.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #658fbc;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.4300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-htcb-nYP .divpicture-container-YpP {
+  margin-top: 1rem;
+  box-sizing: border-box;
+  padding: 4.8rem 1.6rem 8.1rem 1.6rem;
+  width: 46.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.5rem rgba(28, 48, 107, 0.8299999833);
+  background-color: rgba(217, 217, 217, 0.3600000143);
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-htcb-nYP .divpicture-container-YpP .header-javascript-calculator-4Xq {
+  margin-bottom: 3.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: Inika, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .auto-group-22oz-MwD .section-NCX .auto-group-htcb-nYP .divpicture-container-YpP .auto-group-pg4f-yuh {
+  width: 100%;
+  height: 6.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #658fbc;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.4300000072);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .section-YbR {
+  box-sizing: border-box;
+  padding: 5.3rem 2.9rem 12.188rem 3.1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #a4b0f1;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .section-YbR .header-contact-me-fR9 {
+  margin: 0rem 2.7rem 6.3rem 0rem;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.55;
+  color: #050000;
+  font-family: Pridi, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f {
+  box-sizing: border-box;
+  padding: 7.4rem 9.8rem 7.5rem 9.9rem;
+  width: 100%;
+  height: 126.9rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-1-bg.png');
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  border: solid 0.3rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1000000015);
+  background-color: rgba(255, 255, 255, 0.4300000072);
+  border-radius: 1rem;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .label-your-name-E6s {
+  width: 13.5rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 32.4rem;
+  top: 17.3rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .input-i23 {
+  box-sizing: border-box;
+  padding: 3.5rem 0rem 3.5rem 3.7rem;
+  width: 64rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 32.4rem;
+  top: 23.9rem;
+  border: solid 0.1rem #cccccc;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .input-i23 .divplaceholder-RSF {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.2677rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #757575;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .label-subject-K1q {
+  width: 9.4rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 32.4rem;
+  top: 54.75rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .input-Qoy {
+  box-sizing: border-box;
+  padding: 3.5rem 0rem 3.5rem 3.7rem;
+  width: 63.7rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 43.8rem;
+  border: solid 0.1rem #cccccc;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .input-Qoy .divplaceholder-6Ru {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.2677rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #757575;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .label-email-nZd {
+  width: 7.4rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 35.2rem;
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .input-sqy {
+  box-sizing: border-box;
+  padding: 2.8rem 0rem 2.8rem 3.4rem;
+  width: 63.4rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 32.7rem;
+  top: 62.6rem;
+  border: solid 0.1rem #cccccc;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .input-sqy .divplaceholder-b1H {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.2677rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #757575;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .your-message-tFH {
+  width: 15.4rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 32.4rem;
+  top: 72.4rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .input-PSw {
+  box-sizing: border-box;
+  padding: 5.4rem 7.9rem 6.8rem 4.3rem;
+  width: 62.5rem;
+  height: 13.7rem;
+  position: absolute;
+  left: 32.4rem;
+  top: 80rem;
+  border: solid 0.1rem #cccccc;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .input-PSw .divplaceholder-783 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.2677rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #757575;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .button-c4o {
+  box-sizing: border-box;
+  padding: 0.95rem 2.2rem 1.05rem 2.024rem;
+  width: 16.069rem;
+  height: 4rem;
+  position: absolute;
+  left: 53.8rem;
+  top: 103.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #007bff;
+  border-radius: 0.5rem;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .button-c4o .send-message-7GT {
+  margin-right: 1.045rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.33rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .button-c4o .svg-S3q {
+  margin-bottom: 0.1rem;
+  width: 1.1rem;
+  height: 0.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.indexhtml-AuM .section-YbR .auto-group-ymfm-N4f .divcontact-form-6FZ .header-iii-be-glad-to-answer-your-question-Y6s {
+  width: 89.5rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 21.65rem;
+  top: 5.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 2.5775;
+  color: #000000;
+  font-family: Inknut Antiqua, 'Source Sans Pro';
+  white-space: nowrap;
+}
